@@ -15,9 +15,9 @@ To capture early directional moves in Bank Nifty using a simple price action-bas
    * **Entry Time:** 9:25 AM
    * **Exit Time:** 3:15 PM (intraday only)
 
-2. **Signal Generation Based on Futures Price Movement:**
+2. **Signal Generation Based on Price Movement:**
 
-   * Retrieve **Bank Nifty Futures LTP at 9:15 AM** and **9:25 AM**.
+   * Retrieve **Bank Nifty LTP at 9:15 AM** and **9:25 AM**.
    * Compare the two:
 
      * If **9:25 LTP > 9:15 LTP**, market is showing early bullish momentum → **Sell ATM PUT**
@@ -25,7 +25,7 @@ To capture early directional moves in Bank Nifty using a simple price action-bas
 
 3. **Strike Price Selection:**
 
-   * Determine the **ATM strike** by rounding the 9:25 AM futures price to the nearest 100 (e.g., 36545 → 36500).
+   * Determine the **ATM strike** by rounding the 9:25 AM  price to the nearest 100 (e.g., 36545 → 36500).
 
 4. **Instrument Selection:**
 
