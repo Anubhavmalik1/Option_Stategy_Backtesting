@@ -1,0 +1,462 @@
+2025-04-20 20:50:19,777 - config.py - [Line: 41] - INFO - Configuration loaded successfully. Log file: logs\ST_Option_Selling_20_50_20042025.log
+2025-04-20 20:50:20,660 - main.py - [Line: 12] - INFO - STARTING STRATEGY EXECUTION
+2025-04-20 20:50:20,661 - main.py - [Line: 13] - INFO - ==============================
+
+2025-04-20 20:50:20,661 - data_utils.py - [Line: 17] - INFO - Initializing DataHandler with config: {'base_path': 'APR_2022', 'futures_pattern': 'BANKNIFTY-I.NFO.csv', 'options_pattern': 'BANKNIFTY\\d{2}[A-Z]{3}\\d{2}\\d+(CE|PE)\\.NFO\\.csv$'}
+2025-04-20 20:50:20,661 - main.py - [Line: 18] - INFO - Loading market data...
+2025-04-20 20:50:20,661 - data_utils.py - [Line: 21] - INFO - Starting data loading process from: APR_2022
+2025-04-20 20:50:20,661 - data_utils.py - [Line: 33] - INFO - Found 18 date folder(s) to process.
+2025-04-20 20:50:20,661 - data_utils.py - [Line: 37] - INFO - Processing date: 01042022
+2025-04-20 20:50:20,675 - data_utils.py - [Line: 73] - INFO - Successfully loaded futures data for 01042022
+2025-04-20 20:50:21,657 - data_utils.py - [Line: 45] - INFO - Loaded 174 options contracts
+2025-04-20 20:50:21,658 - data_utils.py - [Line: 37] - INFO - Processing date: 04042022
+2025-04-20 20:50:21,670 - data_utils.py - [Line: 73] - INFO - Successfully loaded futures data for 04042022
+2025-04-20 20:50:22,665 - data_utils.py - [Line: 45] - INFO - Loaded 197 options contracts
+2025-04-20 20:50:22,665 - data_utils.py - [Line: 37] - INFO - Processing date: 05042022
+2025-04-20 20:50:22,677 - data_utils.py - [Line: 73] - INFO - Successfully loaded futures data for 05042022
+2025-04-20 20:50:23,596 - data_utils.py - [Line: 45] - INFO - Loaded 206 options contracts
+2025-04-20 20:50:23,597 - data_utils.py - [Line: 37] - INFO - Processing date: 06042022
+2025-04-20 20:50:23,609 - data_utils.py - [Line: 73] - INFO - Successfully loaded futures data for 06042022
+2025-04-20 20:50:24,407 - data_utils.py - [Line: 45] - INFO - Loaded 200 options contracts
+2025-04-20 20:50:24,407 - data_utils.py - [Line: 37] - INFO - Processing date: 07042022
+2025-04-20 20:50:24,421 - data_utils.py - [Line: 73] - INFO - Successfully loaded futures data for 07042022
+2025-04-20 20:50:25,230 - data_utils.py - [Line: 45] - INFO - Loaded 206 options contracts
+2025-04-20 20:50:25,230 - data_utils.py - [Line: 37] - INFO - Processing date: 08042022
+2025-04-20 20:50:25,242 - data_utils.py - [Line: 73] - INFO - Successfully loaded futures data for 08042022
+2025-04-20 20:50:26,154 - data_utils.py - [Line: 45] - INFO - Loaded 208 options contracts
+2025-04-20 20:50:26,154 - data_utils.py - [Line: 37] - INFO - Processing date: 11042022
+2025-04-20 20:50:26,167 - data_utils.py - [Line: 73] - INFO - Successfully loaded futures data for 11042022
+2025-04-20 20:50:27,035 - data_utils.py - [Line: 45] - INFO - Loaded 200 options contracts
+2025-04-20 20:50:27,036 - data_utils.py - [Line: 37] - INFO - Processing date: 12042022
+2025-04-20 20:50:27,048 - data_utils.py - [Line: 73] - INFO - Successfully loaded futures data for 12042022
+2025-04-20 20:50:27,856 - data_utils.py - [Line: 45] - INFO - Loaded 195 options contracts
+2025-04-20 20:50:27,856 - data_utils.py - [Line: 37] - INFO - Processing date: 13042022
+2025-04-20 20:50:27,868 - data_utils.py - [Line: 73] - INFO - Successfully loaded futures data for 13042022
+2025-04-20 20:50:28,712 - data_utils.py - [Line: 45] - INFO - Loaded 201 options contracts
+2025-04-20 20:50:28,712 - data_utils.py - [Line: 37] - INFO - Processing date: 18042022
+2025-04-20 20:50:28,723 - data_utils.py - [Line: 73] - INFO - Successfully loaded futures data for 18042022
+2025-04-20 20:50:30,530 - data_utils.py - [Line: 45] - INFO - Loaded 202 options contracts
+2025-04-20 20:50:30,532 - data_utils.py - [Line: 37] - INFO - Processing date: 19042022
+2025-04-20 20:50:30,552 - data_utils.py - [Line: 73] - INFO - Successfully loaded futures data for 19042022
+2025-04-20 20:50:32,400 - data_utils.py - [Line: 45] - INFO - Loaded 202 options contracts
+2025-04-20 20:50:32,400 - data_utils.py - [Line: 37] - INFO - Processing date: 20042022
+2025-04-20 20:50:32,412 - data_utils.py - [Line: 73] - INFO - Successfully loaded futures data for 20042022
+2025-04-20 20:50:34,596 - data_utils.py - [Line: 45] - INFO - Loaded 202 options contracts
+2025-04-20 20:50:34,596 - data_utils.py - [Line: 37] - INFO - Processing date: 21042022
+2025-04-20 20:50:34,609 - data_utils.py - [Line: 73] - INFO - Successfully loaded futures data for 21042022
+2025-04-20 20:50:36,359 - data_utils.py - [Line: 45] - INFO - Loaded 200 options contracts
+2025-04-20 20:50:36,359 - data_utils.py - [Line: 37] - INFO - Processing date: 22042022
+2025-04-20 20:50:36,391 - data_utils.py - [Line: 73] - INFO - Successfully loaded futures data for 22042022
+2025-04-20 20:50:41,933 - data_utils.py - [Line: 45] - INFO - Loaded 210 options contracts
+2025-04-20 20:50:41,933 - data_utils.py - [Line: 37] - INFO - Processing date: 25042022
+2025-04-20 20:50:41,953 - data_utils.py - [Line: 73] - INFO - Successfully loaded futures data for 25042022
+2025-04-20 20:50:47,601 - data_utils.py - [Line: 45] - INFO - Loaded 226 options contracts
+2025-04-20 20:50:47,602 - data_utils.py - [Line: 37] - INFO - Processing date: 26042022
+2025-04-20 20:50:47,615 - data_utils.py - [Line: 73] - INFO - Successfully loaded futures data for 26042022
+2025-04-20 20:50:52,214 - data_utils.py - [Line: 45] - INFO - Loaded 219 options contracts
+2025-04-20 20:50:52,215 - data_utils.py - [Line: 37] - INFO - Processing date: 27042022
+2025-04-20 20:50:52,226 - data_utils.py - [Line: 73] - INFO - Successfully loaded futures data for 27042022
+2025-04-20 20:50:56,580 - data_utils.py - [Line: 45] - INFO - Loaded 233 options contracts
+2025-04-20 20:50:56,580 - data_utils.py - [Line: 37] - INFO - Processing date: 28042022
+2025-04-20 20:50:56,592 - data_utils.py - [Line: 73] - INFO - Successfully loaded futures data for 28042022
+2025-04-20 20:51:00,852 - data_utils.py - [Line: 45] - INFO - Loaded 238 options contracts
+2025-04-20 20:51:00,853 - data_utils.py - [Line: 47] - INFO - 
+Data loading completed. Total: 18 futures, 3719 options
+2025-04-20 20:51:00,855 - main.py - [Line: 26] - INFO - 
+Starting strategy execution for 18 trading days
+2025-04-20 20:51:00,861 - main.py - [Line: 44] - INFO - DAY 1/18: Processing 01042022
+2025-04-20 20:51:00,861 - main.py - [Line: 45] - INFO - ==============================
+2025-04-20 20:51:00,913 - strategy.py - [Line: 21] - INFO - Executing simple SELL CALL PUT strategy
+2025-04-20 20:51:00,913 - strategy.py - [Line: 28] - INFO - Date: 01042022
+2025-04-20 20:51:00,997 - strategy.py - [Line: 64] - INFO - ATM Strike determined: 36500 (Future LTP: 36538.95)
+2025-04-20 20:51:00,998 - strategy.py - [Line: 65] - INFO - Selected Option Type: PE
+2025-04-20 20:51:01,006 - strategy.py - [Line: 116] - INFO - --------------------------------------------------
+2025-04-20 20:51:01,006 - strategy.py - [Line: 117] - INFO - TRADE LOG
+2025-04-20 20:51:01,006 - strategy.py - [Line: 118] - INFO - Strike Price      : 36500 PE
+2025-04-20 20:51:01,006 - strategy.py - [Line: 119] - INFO - Entry Time        : 9:25
+2025-04-20 20:51:01,006 - strategy.py - [Line: 120] - INFO - Entry Price       : Rs983.80
+2025-04-20 20:51:01,012 - strategy.py - [Line: 121] - INFO - Exit Time         : 15:15
+2025-04-20 20:51:01,012 - strategy.py - [Line: 122] - INFO - Exit Price        : Rs665.15
+2025-04-20 20:51:01,012 - strategy.py - [Line: 123] - INFO - P&L per Qty       : Rs318.65
+2025-04-20 20:51:01,012 - strategy.py - [Line: 124] - INFO - Lot Size          : 30
+2025-04-20 20:51:01,012 - strategy.py - [Line: 125] - INFO - Total P&L (1 lot) : Rs9559.50
+2025-04-20 20:51:01,012 - strategy.py - [Line: 126] - INFO - --------------------------------------------------
+2025-04-20 20:51:01,013 - main.py - [Line: 84] - INFO - 
+Daily Summary:
+2025-04-20 20:51:01,013 - main.py - [Line: 85] - INFO - Trades Executed: 1
+2025-04-20 20:51:01,013 - main.py - [Line: 86] - INFO - Total P&L: Rs9559.50
+2025-04-20 20:51:01,013 - main.py - [Line: 44] - INFO - DAY 2/18: Processing 04042022
+2025-04-20 20:51:01,013 - main.py - [Line: 45] - INFO - ==============================
+2025-04-20 20:51:01,014 - strategy.py - [Line: 21] - INFO - Executing simple SELL CALL PUT strategy
+2025-04-20 20:51:01,014 - strategy.py - [Line: 28] - INFO - Date: 04042022
+2025-04-20 20:51:01,025 - strategy.py - [Line: 64] - INFO - ATM Strike determined: 38000 (Future LTP: 37977.10)
+2025-04-20 20:51:01,025 - strategy.py - [Line: 65] - INFO - Selected Option Type: PE
+2025-04-20 20:51:01,032 - strategy.py - [Line: 116] - INFO - --------------------------------------------------
+2025-04-20 20:51:01,032 - strategy.py - [Line: 117] - INFO - TRADE LOG
+2025-04-20 20:51:01,032 - strategy.py - [Line: 118] - INFO - Strike Price      : 38000 PE
+2025-04-20 20:51:01,032 - strategy.py - [Line: 119] - INFO - Entry Time        : 9:25
+2025-04-20 20:51:01,032 - strategy.py - [Line: 120] - INFO - Entry Price       : Rs960.00
+2025-04-20 20:51:01,032 - strategy.py - [Line: 121] - INFO - Exit Time         : 15:15
+2025-04-20 20:51:01,032 - strategy.py - [Line: 122] - INFO - Exit Price        : Rs669.00
+2025-04-20 20:51:01,032 - strategy.py - [Line: 123] - INFO - P&L per Qty       : Rs291.00
+2025-04-20 20:51:01,033 - strategy.py - [Line: 124] - INFO - Lot Size          : 30
+2025-04-20 20:51:01,033 - strategy.py - [Line: 125] - INFO - Total P&L (1 lot) : Rs8730.00
+2025-04-20 20:51:01,033 - strategy.py - [Line: 126] - INFO - --------------------------------------------------
+2025-04-20 20:51:01,033 - main.py - [Line: 84] - INFO - 
+Daily Summary:
+2025-04-20 20:51:01,033 - main.py - [Line: 85] - INFO - Trades Executed: 1
+2025-04-20 20:51:01,033 - main.py - [Line: 86] - INFO - Total P&L: Rs8730.00
+2025-04-20 20:51:01,033 - main.py - [Line: 44] - INFO - DAY 3/18: Processing 05042022
+2025-04-20 20:51:01,033 - main.py - [Line: 45] - INFO - ==============================
+2025-04-20 20:51:01,034 - strategy.py - [Line: 21] - INFO - Executing simple SELL CALL PUT strategy
+2025-04-20 20:51:01,034 - strategy.py - [Line: 28] - INFO - Date: 05042022
+2025-04-20 20:51:01,042 - strategy.py - [Line: 64] - INFO - ATM Strike determined: 38500 (Future LTP: 38473.05)
+2025-04-20 20:51:01,042 - strategy.py - [Line: 65] - INFO - Selected Option Type: CE
+2025-04-20 20:51:01,052 - strategy.py - [Line: 116] - INFO - --------------------------------------------------
+2025-04-20 20:51:01,052 - strategy.py - [Line: 117] - INFO - TRADE LOG
+2025-04-20 20:51:01,053 - strategy.py - [Line: 118] - INFO - Strike Price      : 38500 CE
+2025-04-20 20:51:01,053 - strategy.py - [Line: 119] - INFO - Entry Time        : 9:25
+2025-04-20 20:51:01,053 - strategy.py - [Line: 120] - INFO - Entry Price       : Rs943.90
+2025-04-20 20:51:01,053 - strategy.py - [Line: 121] - INFO - Exit Time         : 15:15
+2025-04-20 20:51:01,053 - strategy.py - [Line: 122] - INFO - Exit Price        : Rs744.20
+2025-04-20 20:51:01,053 - strategy.py - [Line: 123] - INFO - P&L per Qty       : Rs199.70
+2025-04-20 20:51:01,053 - strategy.py - [Line: 124] - INFO - Lot Size          : 30
+2025-04-20 20:51:01,053 - strategy.py - [Line: 125] - INFO - Total P&L (1 lot) : Rs5991.00
+2025-04-20 20:51:01,053 - strategy.py - [Line: 126] - INFO - --------------------------------------------------
+2025-04-20 20:51:01,053 - main.py - [Line: 84] - INFO - 
+Daily Summary:
+2025-04-20 20:51:01,053 - main.py - [Line: 85] - INFO - Trades Executed: 1
+2025-04-20 20:51:01,053 - main.py - [Line: 86] - INFO - Total P&L: Rs5991.00
+2025-04-20 20:51:01,053 - main.py - [Line: 44] - INFO - DAY 4/18: Processing 06042022
+2025-04-20 20:51:01,053 - main.py - [Line: 45] - INFO - ==============================
+2025-04-20 20:51:01,054 - strategy.py - [Line: 21] - INFO - Executing simple SELL CALL PUT strategy
+2025-04-20 20:51:01,054 - strategy.py - [Line: 28] - INFO - Date: 06042022
+2025-04-20 20:51:01,067 - strategy.py - [Line: 64] - INFO - ATM Strike determined: 37800 (Future LTP: 37767.00)
+2025-04-20 20:51:01,067 - strategy.py - [Line: 65] - INFO - Selected Option Type: CE
+2025-04-20 20:51:01,077 - strategy.py - [Line: 116] - INFO - --------------------------------------------------
+2025-04-20 20:51:01,078 - strategy.py - [Line: 117] - INFO - TRADE LOG
+2025-04-20 20:51:01,078 - strategy.py - [Line: 118] - INFO - Strike Price      : 37800 CE
+2025-04-20 20:51:01,078 - strategy.py - [Line: 119] - INFO - Entry Time        : 9:25
+2025-04-20 20:51:01,078 - strategy.py - [Line: 120] - INFO - Entry Price       : Rs910.00
+2025-04-20 20:51:01,078 - strategy.py - [Line: 121] - INFO - Exit Time         : 15:15
+2025-04-20 20:51:01,078 - strategy.py - [Line: 122] - INFO - Exit Price        : Rs880.95
+2025-04-20 20:51:01,078 - strategy.py - [Line: 123] - INFO - P&L per Qty       : Rs29.05
+2025-04-20 20:51:01,078 - strategy.py - [Line: 124] - INFO - Lot Size          : 30
+2025-04-20 20:51:01,078 - strategy.py - [Line: 125] - INFO - Total P&L (1 lot) : Rs871.50
+2025-04-20 20:51:01,078 - strategy.py - [Line: 126] - INFO - --------------------------------------------------
+2025-04-20 20:51:01,078 - main.py - [Line: 84] - INFO - 
+Daily Summary:
+2025-04-20 20:51:01,078 - main.py - [Line: 85] - INFO - Trades Executed: 1
+2025-04-20 20:51:01,078 - main.py - [Line: 86] - INFO - Total P&L: Rs871.50
+2025-04-20 20:51:01,078 - main.py - [Line: 44] - INFO - DAY 5/18: Processing 07042022
+2025-04-20 20:51:01,078 - main.py - [Line: 45] - INFO - ==============================
+2025-04-20 20:51:01,079 - strategy.py - [Line: 21] - INFO - Executing simple SELL CALL PUT strategy
+2025-04-20 20:51:01,079 - strategy.py - [Line: 28] - INFO - Date: 07042022
+2025-04-20 20:51:01,103 - strategy.py - [Line: 64] - INFO - ATM Strike determined: 37600 (Future LTP: 37576.00)
+2025-04-20 20:51:01,104 - strategy.py - [Line: 65] - INFO - Selected Option Type: PE
+2025-04-20 20:51:01,114 - strategy.py - [Line: 116] - INFO - --------------------------------------------------
+2025-04-20 20:51:01,114 - strategy.py - [Line: 117] - INFO - TRADE LOG
+2025-04-20 20:51:01,114 - strategy.py - [Line: 118] - INFO - Strike Price      : 37600 PE
+2025-04-20 20:51:01,114 - strategy.py - [Line: 119] - INFO - Entry Time        : 9:25
+2025-04-20 20:51:01,114 - strategy.py - [Line: 120] - INFO - Entry Price       : Rs896.25
+2025-04-20 20:51:01,114 - strategy.py - [Line: 121] - INFO - Exit Time         : 15:15
+2025-04-20 20:51:01,114 - strategy.py - [Line: 122] - INFO - Exit Price        : Rs804.10
+2025-04-20 20:51:01,114 - strategy.py - [Line: 123] - INFO - P&L per Qty       : Rs92.15
+2025-04-20 20:51:01,114 - strategy.py - [Line: 124] - INFO - Lot Size          : 30
+2025-04-20 20:51:01,115 - strategy.py - [Line: 125] - INFO - Total P&L (1 lot) : Rs2764.50
+2025-04-20 20:51:01,115 - strategy.py - [Line: 126] - INFO - --------------------------------------------------
+2025-04-20 20:51:01,115 - main.py - [Line: 84] - INFO - 
+Daily Summary:
+2025-04-20 20:51:01,115 - main.py - [Line: 85] - INFO - Trades Executed: 1
+2025-04-20 20:51:01,115 - main.py - [Line: 86] - INFO - Total P&L: Rs2764.50
+2025-04-20 20:51:01,115 - main.py - [Line: 44] - INFO - DAY 6/18: Processing 08042022
+2025-04-20 20:51:01,115 - main.py - [Line: 45] - INFO - ==============================
+2025-04-20 20:51:01,116 - strategy.py - [Line: 21] - INFO - Executing simple SELL CALL PUT strategy
+2025-04-20 20:51:01,116 - strategy.py - [Line: 28] - INFO - Date: 08042022
+2025-04-20 20:51:01,125 - strategy.py - [Line: 64] - INFO - ATM Strike determined: 37700 (Future LTP: 37711.25)
+2025-04-20 20:51:01,126 - strategy.py - [Line: 65] - INFO - Selected Option Type: CE
+2025-04-20 20:51:01,137 - strategy.py - [Line: 116] - INFO - --------------------------------------------------
+2025-04-20 20:51:01,137 - strategy.py - [Line: 117] - INFO - TRADE LOG
+2025-04-20 20:51:01,137 - strategy.py - [Line: 118] - INFO - Strike Price      : 37700 CE
+2025-04-20 20:51:01,137 - strategy.py - [Line: 119] - INFO - Entry Time        : 9:25
+2025-04-20 20:51:01,137 - strategy.py - [Line: 120] - INFO - Entry Price       : Rs879.00
+2025-04-20 20:51:01,137 - strategy.py - [Line: 121] - INFO - Exit Time         : 15:15
+2025-04-20 20:51:01,137 - strategy.py - [Line: 122] - INFO - Exit Price        : Rs933.55
+2025-04-20 20:51:01,137 - strategy.py - [Line: 123] - INFO - P&L per Qty       : Rs-54.55
+2025-04-20 20:51:01,137 - strategy.py - [Line: 124] - INFO - Lot Size          : 30
+2025-04-20 20:51:01,137 - strategy.py - [Line: 125] - INFO - Total P&L (1 lot) : Rs-1636.50
+2025-04-20 20:51:01,137 - strategy.py - [Line: 126] - INFO - --------------------------------------------------
+2025-04-20 20:51:01,138 - main.py - [Line: 84] - INFO - 
+Daily Summary:
+2025-04-20 20:51:01,138 - main.py - [Line: 85] - INFO - Trades Executed: 1
+2025-04-20 20:51:01,138 - main.py - [Line: 86] - INFO - Total P&L: Rs-1636.50
+2025-04-20 20:51:01,138 - main.py - [Line: 44] - INFO - DAY 7/18: Processing 11042022
+2025-04-20 20:51:01,138 - main.py - [Line: 45] - INFO - ==============================
+2025-04-20 20:51:01,139 - strategy.py - [Line: 21] - INFO - Executing simple SELL CALL PUT strategy
+2025-04-20 20:51:01,139 - strategy.py - [Line: 28] - INFO - Date: 11042022
+2025-04-20 20:51:01,208 - strategy.py - [Line: 64] - INFO - ATM Strike determined: 37700 (Future LTP: 37705.70)
+2025-04-20 20:51:01,209 - strategy.py - [Line: 65] - INFO - Selected Option Type: CE
+2025-04-20 20:51:01,216 - strategy.py - [Line: 116] - INFO - --------------------------------------------------
+2025-04-20 20:51:01,216 - strategy.py - [Line: 117] - INFO - TRADE LOG
+2025-04-20 20:51:01,216 - strategy.py - [Line: 118] - INFO - Strike Price      : 37700 CE
+2025-04-20 20:51:01,216 - strategy.py - [Line: 119] - INFO - Entry Time        : 9:25
+2025-04-20 20:51:01,216 - strategy.py - [Line: 120] - INFO - Entry Price       : Rs781.15
+2025-04-20 20:51:01,216 - strategy.py - [Line: 121] - INFO - Exit Time         : 15:15
+2025-04-20 20:51:01,216 - strategy.py - [Line: 122] - INFO - Exit Price        : Rs779.95
+2025-04-20 20:51:01,216 - strategy.py - [Line: 123] - INFO - P&L per Qty       : Rs1.20
+2025-04-20 20:51:01,216 - strategy.py - [Line: 124] - INFO - Lot Size          : 30
+2025-04-20 20:51:01,216 - strategy.py - [Line: 125] - INFO - Total P&L (1 lot) : Rs36.00
+2025-04-20 20:51:01,216 - strategy.py - [Line: 126] - INFO - --------------------------------------------------
+2025-04-20 20:51:01,216 - main.py - [Line: 84] - INFO - 
+Daily Summary:
+2025-04-20 20:51:01,216 - main.py - [Line: 85] - INFO - Trades Executed: 1
+2025-04-20 20:51:01,216 - main.py - [Line: 86] - INFO - Total P&L: Rs36.00
+2025-04-20 20:51:01,216 - main.py - [Line: 44] - INFO - DAY 8/18: Processing 12042022
+2025-04-20 20:51:01,216 - main.py - [Line: 45] - INFO - ==============================
+2025-04-20 20:51:01,217 - strategy.py - [Line: 21] - INFO - Executing simple SELL CALL PUT strategy
+2025-04-20 20:51:01,217 - strategy.py - [Line: 28] - INFO - Date: 12042022
+2025-04-20 20:51:01,228 - strategy.py - [Line: 64] - INFO - ATM Strike determined: 37500 (Future LTP: 37506.10)
+2025-04-20 20:51:01,228 - strategy.py - [Line: 65] - INFO - Selected Option Type: CE
+2025-04-20 20:51:01,237 - strategy.py - [Line: 116] - INFO - --------------------------------------------------
+2025-04-20 20:51:01,237 - strategy.py - [Line: 117] - INFO - TRADE LOG
+2025-04-20 20:51:01,237 - strategy.py - [Line: 118] - INFO - Strike Price      : 37500 CE
+2025-04-20 20:51:01,237 - strategy.py - [Line: 119] - INFO - Entry Time        : 9:25
+2025-04-20 20:51:01,237 - strategy.py - [Line: 120] - INFO - Entry Price       : Rs722.95
+2025-04-20 20:51:01,237 - strategy.py - [Line: 121] - INFO - Exit Time         : 15:15
+2025-04-20 20:51:01,237 - strategy.py - [Line: 122] - INFO - Exit Price        : Rs880.05
+2025-04-20 20:51:01,237 - strategy.py - [Line: 123] - INFO - P&L per Qty       : Rs-157.10
+2025-04-20 20:51:01,237 - strategy.py - [Line: 124] - INFO - Lot Size          : 30
+2025-04-20 20:51:01,237 - strategy.py - [Line: 125] - INFO - Total P&L (1 lot) : Rs-4713.00
+2025-04-20 20:51:01,237 - strategy.py - [Line: 126] - INFO - --------------------------------------------------
+2025-04-20 20:51:01,237 - main.py - [Line: 84] - INFO - 
+Daily Summary:
+2025-04-20 20:51:01,238 - main.py - [Line: 85] - INFO - Trades Executed: 1
+2025-04-20 20:51:01,238 - main.py - [Line: 86] - INFO - Total P&L: Rs-4713.00
+2025-04-20 20:51:01,238 - main.py - [Line: 44] - INFO - DAY 9/18: Processing 13042022
+2025-04-20 20:51:01,238 - main.py - [Line: 45] - INFO - ==============================
+2025-04-20 20:51:01,238 - strategy.py - [Line: 21] - INFO - Executing simple SELL CALL PUT strategy
+2025-04-20 20:51:01,238 - strategy.py - [Line: 28] - INFO - Date: 13042022
+2025-04-20 20:51:01,251 - strategy.py - [Line: 64] - INFO - ATM Strike determined: 38000 (Future LTP: 38021.05)
+2025-04-20 20:51:01,251 - strategy.py - [Line: 65] - INFO - Selected Option Type: PE
+2025-04-20 20:51:01,259 - strategy.py - [Line: 116] - INFO - --------------------------------------------------
+2025-04-20 20:51:01,259 - strategy.py - [Line: 117] - INFO - TRADE LOG
+2025-04-20 20:51:01,259 - strategy.py - [Line: 118] - INFO - Strike Price      : 38000 PE
+2025-04-20 20:51:01,259 - strategy.py - [Line: 119] - INFO - Entry Time        : 9:25
+2025-04-20 20:51:01,259 - strategy.py - [Line: 120] - INFO - Entry Price       : Rs616.15
+2025-04-20 20:51:01,259 - strategy.py - [Line: 121] - INFO - Exit Time         : 15:15
+2025-04-20 20:51:01,259 - strategy.py - [Line: 122] - INFO - Exit Price        : Rs851.00
+2025-04-20 20:51:01,259 - strategy.py - [Line: 123] - INFO - P&L per Qty       : Rs-234.85
+2025-04-20 20:51:01,259 - strategy.py - [Line: 124] - INFO - Lot Size          : 30
+2025-04-20 20:51:01,259 - strategy.py - [Line: 125] - INFO - Total P&L (1 lot) : Rs-7045.50
+2025-04-20 20:51:01,259 - strategy.py - [Line: 126] - INFO - --------------------------------------------------
+2025-04-20 20:51:01,259 - main.py - [Line: 84] - INFO - 
+Daily Summary:
+2025-04-20 20:51:01,259 - main.py - [Line: 85] - INFO - Trades Executed: 1
+2025-04-20 20:51:01,259 - main.py - [Line: 86] - INFO - Total P&L: Rs-7045.50
+2025-04-20 20:51:01,259 - main.py - [Line: 44] - INFO - DAY 10/18: Processing 18042022
+2025-04-20 20:51:01,259 - main.py - [Line: 45] - INFO - ==============================
+2025-04-20 20:51:01,260 - strategy.py - [Line: 21] - INFO - Executing simple SELL CALL PUT strategy
+2025-04-20 20:51:01,260 - strategy.py - [Line: 28] - INFO - Date: 18042022
+2025-04-20 20:51:01,269 - strategy.py - [Line: 64] - INFO - ATM Strike determined: 36900 (Future LTP: 36911.60)
+2025-04-20 20:51:01,269 - strategy.py - [Line: 65] - INFO - Selected Option Type: CE
+2025-04-20 20:51:01,278 - strategy.py - [Line: 116] - INFO - --------------------------------------------------
+2025-04-20 20:51:01,278 - strategy.py - [Line: 117] - INFO - TRADE LOG
+2025-04-20 20:51:01,278 - strategy.py - [Line: 118] - INFO - Strike Price      : 36900 CE
+2025-04-20 20:51:01,279 - strategy.py - [Line: 119] - INFO - Entry Time        : 9:25
+2025-04-20 20:51:01,279 - strategy.py - [Line: 120] - INFO - Entry Price       : Rs637.00
+2025-04-20 20:51:01,279 - strategy.py - [Line: 121] - INFO - Exit Time         : 15:15
+2025-04-20 20:51:01,279 - strategy.py - [Line: 122] - INFO - Exit Price        : Rs576.65
+2025-04-20 20:51:01,279 - strategy.py - [Line: 123] - INFO - P&L per Qty       : Rs60.35
+2025-04-20 20:51:01,279 - strategy.py - [Line: 124] - INFO - Lot Size          : 30
+2025-04-20 20:51:01,279 - strategy.py - [Line: 125] - INFO - Total P&L (1 lot) : Rs1810.50
+2025-04-20 20:51:01,279 - strategy.py - [Line: 126] - INFO - --------------------------------------------------
+2025-04-20 20:51:01,279 - main.py - [Line: 84] - INFO - 
+Daily Summary:
+2025-04-20 20:51:01,279 - main.py - [Line: 85] - INFO - Trades Executed: 1
+2025-04-20 20:51:01,279 - main.py - [Line: 86] - INFO - Total P&L: Rs1810.50
+2025-04-20 20:51:01,279 - main.py - [Line: 44] - INFO - DAY 11/18: Processing 19042022
+2025-04-20 20:51:01,279 - main.py - [Line: 45] - INFO - ==============================
+2025-04-20 20:51:01,280 - strategy.py - [Line: 21] - INFO - Executing simple SELL CALL PUT strategy
+2025-04-20 20:51:01,280 - strategy.py - [Line: 28] - INFO - Date: 19042022
+2025-04-20 20:51:01,292 - strategy.py - [Line: 64] - INFO - ATM Strike determined: 36900 (Future LTP: 36896.10)
+2025-04-20 20:51:01,292 - strategy.py - [Line: 65] - INFO - Selected Option Type: CE
+2025-04-20 20:51:01,305 - strategy.py - [Line: 116] - INFO - --------------------------------------------------
+2025-04-20 20:51:01,306 - strategy.py - [Line: 117] - INFO - TRADE LOG
+2025-04-20 20:51:01,306 - strategy.py - [Line: 118] - INFO - Strike Price      : 36900 CE
+2025-04-20 20:51:01,306 - strategy.py - [Line: 119] - INFO - Entry Time        : 9:25
+2025-04-20 20:51:01,306 - strategy.py - [Line: 120] - INFO - Entry Price       : Rs538.70
+2025-04-20 20:51:01,306 - strategy.py - [Line: 121] - INFO - Exit Time         : 15:15
+2025-04-20 20:51:01,306 - strategy.py - [Line: 122] - INFO - Exit Price        : Rs326.05
+2025-04-20 20:51:01,306 - strategy.py - [Line: 123] - INFO - P&L per Qty       : Rs212.65
+2025-04-20 20:51:01,306 - strategy.py - [Line: 124] - INFO - Lot Size          : 30
+2025-04-20 20:51:01,306 - strategy.py - [Line: 125] - INFO - Total P&L (1 lot) : Rs6379.50
+2025-04-20 20:51:01,307 - strategy.py - [Line: 126] - INFO - --------------------------------------------------
+2025-04-20 20:51:01,307 - main.py - [Line: 84] - INFO - 
+Daily Summary:
+2025-04-20 20:51:01,307 - main.py - [Line: 85] - INFO - Trades Executed: 1
+2025-04-20 20:51:01,307 - main.py - [Line: 86] - INFO - Total P&L: Rs6379.50
+2025-04-20 20:51:01,307 - main.py - [Line: 44] - INFO - DAY 12/18: Processing 20042022
+2025-04-20 20:51:01,307 - main.py - [Line: 45] - INFO - ==============================
+2025-04-20 20:51:01,309 - strategy.py - [Line: 21] - INFO - Executing simple SELL CALL PUT strategy
+2025-04-20 20:51:01,309 - strategy.py - [Line: 28] - INFO - Date: 20042022
+2025-04-20 20:51:01,318 - strategy.py - [Line: 64] - INFO - ATM Strike determined: 36400 (Future LTP: 36389.05)
+2025-04-20 20:51:01,318 - strategy.py - [Line: 65] - INFO - Selected Option Type: CE
+2025-04-20 20:51:01,330 - strategy.py - [Line: 116] - INFO - --------------------------------------------------
+2025-04-20 20:51:01,330 - strategy.py - [Line: 117] - INFO - TRADE LOG
+2025-04-20 20:51:01,330 - strategy.py - [Line: 118] - INFO - Strike Price      : 36400 CE
+2025-04-20 20:51:01,330 - strategy.py - [Line: 119] - INFO - Entry Time        : 9:25
+2025-04-20 20:51:01,330 - strategy.py - [Line: 120] - INFO - Entry Price       : Rs496.65
+2025-04-20 20:51:01,330 - strategy.py - [Line: 121] - INFO - Exit Time         : 15:15
+2025-04-20 20:51:01,330 - strategy.py - [Line: 122] - INFO - Exit Price        : Rs475.70
+2025-04-20 20:51:01,330 - strategy.py - [Line: 123] - INFO - P&L per Qty       : Rs20.95
+2025-04-20 20:51:01,330 - strategy.py - [Line: 124] - INFO - Lot Size          : 30
+2025-04-20 20:51:01,330 - strategy.py - [Line: 125] - INFO - Total P&L (1 lot) : Rs628.50
+2025-04-20 20:51:01,330 - strategy.py - [Line: 126] - INFO - --------------------------------------------------
+2025-04-20 20:51:01,330 - main.py - [Line: 84] - INFO - 
+Daily Summary:
+2025-04-20 20:51:01,331 - main.py - [Line: 85] - INFO - Trades Executed: 1
+2025-04-20 20:51:01,331 - main.py - [Line: 86] - INFO - Total P&L: Rs628.50
+2025-04-20 20:51:01,331 - main.py - [Line: 44] - INFO - DAY 13/18: Processing 21042022
+2025-04-20 20:51:01,331 - main.py - [Line: 45] - INFO - ==============================
+2025-04-20 20:51:01,332 - strategy.py - [Line: 21] - INFO - Executing simple SELL CALL PUT strategy
+2025-04-20 20:51:01,332 - strategy.py - [Line: 28] - INFO - Date: 21042022
+2025-04-20 20:51:01,344 - strategy.py - [Line: 64] - INFO - ATM Strike determined: 36600 (Future LTP: 36632.65)
+2025-04-20 20:51:01,344 - strategy.py - [Line: 65] - INFO - Selected Option Type: PE
+2025-04-20 20:51:01,358 - strategy.py - [Line: 116] - INFO - --------------------------------------------------
+2025-04-20 20:51:01,358 - strategy.py - [Line: 117] - INFO - TRADE LOG
+2025-04-20 20:51:01,358 - strategy.py - [Line: 118] - INFO - Strike Price      : 36600 PE
+2025-04-20 20:51:01,358 - strategy.py - [Line: 119] - INFO - Entry Time        : 9:25
+2025-04-20 20:51:01,358 - strategy.py - [Line: 120] - INFO - Entry Price       : Rs419.00
+2025-04-20 20:51:01,358 - strategy.py - [Line: 121] - INFO - Exit Time         : 15:15
+2025-04-20 20:51:01,358 - strategy.py - [Line: 122] - INFO - Exit Price        : Rs281.55
+2025-04-20 20:51:01,358 - strategy.py - [Line: 123] - INFO - P&L per Qty       : Rs137.45
+2025-04-20 20:51:01,359 - strategy.py - [Line: 124] - INFO - Lot Size          : 30
+2025-04-20 20:51:01,359 - strategy.py - [Line: 125] - INFO - Total P&L (1 lot) : Rs4123.50
+2025-04-20 20:51:01,359 - strategy.py - [Line: 126] - INFO - --------------------------------------------------
+2025-04-20 20:51:01,359 - main.py - [Line: 84] - INFO - 
+Daily Summary:
+2025-04-20 20:51:01,359 - main.py - [Line: 85] - INFO - Trades Executed: 1
+2025-04-20 20:51:01,359 - main.py - [Line: 86] - INFO - Total P&L: Rs4123.50
+2025-04-20 20:51:01,359 - main.py - [Line: 44] - INFO - DAY 14/18: Processing 22042022
+2025-04-20 20:51:01,359 - main.py - [Line: 45] - INFO - ==============================
+2025-04-20 20:51:01,361 - strategy.py - [Line: 21] - INFO - Executing simple SELL CALL PUT strategy
+2025-04-20 20:51:01,361 - strategy.py - [Line: 28] - INFO - Date: 22042022
+2025-04-20 20:51:01,377 - strategy.py - [Line: 64] - INFO - ATM Strike determined: 36500 (Future LTP: 36470.00)
+2025-04-20 20:51:01,378 - strategy.py - [Line: 65] - INFO - Selected Option Type: CE
+2025-04-20 20:51:01,391 - strategy.py - [Line: 116] - INFO - --------------------------------------------------
+2025-04-20 20:51:01,391 - strategy.py - [Line: 117] - INFO - TRADE LOG
+2025-04-20 20:51:01,391 - strategy.py - [Line: 118] - INFO - Strike Price      : 36500 CE
+2025-04-20 20:51:01,391 - strategy.py - [Line: 119] - INFO - Entry Time        : 9:25
+2025-04-20 20:51:01,391 - strategy.py - [Line: 120] - INFO - Entry Price       : Rs383.55
+2025-04-20 20:51:01,391 - strategy.py - [Line: 121] - INFO - Exit Time         : 15:15
+2025-04-20 20:51:01,391 - strategy.py - [Line: 122] - INFO - Exit Price        : Rs249.35
+2025-04-20 20:51:01,392 - strategy.py - [Line: 123] - INFO - P&L per Qty       : Rs134.20
+2025-04-20 20:51:01,392 - strategy.py - [Line: 124] - INFO - Lot Size          : 30
+2025-04-20 20:51:01,392 - strategy.py - [Line: 125] - INFO - Total P&L (1 lot) : Rs4026.00
+2025-04-20 20:51:01,392 - strategy.py - [Line: 126] - INFO - --------------------------------------------------
+2025-04-20 20:51:01,392 - main.py - [Line: 84] - INFO - 
+Daily Summary:
+2025-04-20 20:51:01,392 - main.py - [Line: 85] - INFO - Trades Executed: 1
+2025-04-20 20:51:01,392 - main.py - [Line: 86] - INFO - Total P&L: Rs4026.00
+2025-04-20 20:51:01,392 - main.py - [Line: 44] - INFO - DAY 15/18: Processing 25042022
+2025-04-20 20:51:01,392 - main.py - [Line: 45] - INFO - ==============================
+2025-04-20 20:51:01,393 - strategy.py - [Line: 21] - INFO - Executing simple SELL CALL PUT strategy
+2025-04-20 20:51:01,393 - strategy.py - [Line: 28] - INFO - Date: 25042022
+2025-04-20 20:51:01,398 - strategy.py - [Line: 64] - INFO - ATM Strike determined: 35800 (Future LTP: 35850.00)
+2025-04-20 20:51:01,398 - strategy.py - [Line: 65] - INFO - Selected Option Type: PE
+2025-04-20 20:51:01,405 - strategy.py - [Line: 116] - INFO - --------------------------------------------------
+2025-04-20 20:51:01,405 - strategy.py - [Line: 117] - INFO - TRADE LOG
+2025-04-20 20:51:01,405 - strategy.py - [Line: 118] - INFO - Strike Price      : 35800 PE
+2025-04-20 20:51:01,405 - strategy.py - [Line: 119] - INFO - Entry Time        : 9:25
+2025-04-20 20:51:01,405 - strategy.py - [Line: 120] - INFO - Entry Price       : Rs405.00
+2025-04-20 20:51:01,405 - strategy.py - [Line: 121] - INFO - Exit Time         : 15:15
+2025-04-20 20:51:01,405 - strategy.py - [Line: 122] - INFO - Exit Price        : Rs290.70
+2025-04-20 20:51:01,405 - strategy.py - [Line: 123] - INFO - P&L per Qty       : Rs114.30
+2025-04-20 20:51:01,405 - strategy.py - [Line: 124] - INFO - Lot Size          : 30
+2025-04-20 20:51:01,405 - strategy.py - [Line: 125] - INFO - Total P&L (1 lot) : Rs3429.00
+2025-04-20 20:51:01,405 - strategy.py - [Line: 126] - INFO - --------------------------------------------------
+2025-04-20 20:51:01,405 - main.py - [Line: 84] - INFO - 
+Daily Summary:
+2025-04-20 20:51:01,405 - main.py - [Line: 85] - INFO - Trades Executed: 1
+2025-04-20 20:51:01,405 - main.py - [Line: 86] - INFO - Total P&L: Rs3429.00
+2025-04-20 20:51:01,405 - main.py - [Line: 44] - INFO - DAY 16/18: Processing 26042022
+2025-04-20 20:51:01,405 - main.py - [Line: 45] - INFO - ==============================
+2025-04-20 20:51:01,406 - strategy.py - [Line: 21] - INFO - Executing simple SELL CALL PUT strategy
+2025-04-20 20:51:01,406 - strategy.py - [Line: 28] - INFO - Date: 26042022
+2025-04-20 20:51:01,413 - strategy.py - [Line: 64] - INFO - ATM Strike determined: 36600 (Future LTP: 36588.05)
+2025-04-20 20:51:01,413 - strategy.py - [Line: 65] - INFO - Selected Option Type: PE
+2025-04-20 20:51:01,419 - strategy.py - [Line: 116] - INFO - --------------------------------------------------
+2025-04-20 20:51:01,419 - strategy.py - [Line: 117] - INFO - TRADE LOG
+2025-04-20 20:51:01,419 - strategy.py - [Line: 118] - INFO - Strike Price      : 36600 PE
+2025-04-20 20:51:01,419 - strategy.py - [Line: 119] - INFO - Entry Time        : 9:25
+2025-04-20 20:51:01,419 - strategy.py - [Line: 120] - INFO - Entry Price       : Rs317.00
+2025-04-20 20:51:01,419 - strategy.py - [Line: 121] - INFO - Exit Time         : 15:15
+2025-04-20 20:51:01,419 - strategy.py - [Line: 122] - INFO - Exit Price        : Rs344.65
+2025-04-20 20:51:01,419 - strategy.py - [Line: 123] - INFO - P&L per Qty       : Rs-27.65
+2025-04-20 20:51:01,419 - strategy.py - [Line: 124] - INFO - Lot Size          : 30
+2025-04-20 20:51:01,419 - strategy.py - [Line: 125] - INFO - Total P&L (1 lot) : Rs-829.50
+2025-04-20 20:51:01,419 - strategy.py - [Line: 126] - INFO - --------------------------------------------------
+2025-04-20 20:51:01,419 - main.py - [Line: 84] - INFO - 
+Daily Summary:
+2025-04-20 20:51:01,419 - main.py - [Line: 85] - INFO - Trades Executed: 1
+2025-04-20 20:51:01,419 - main.py - [Line: 86] - INFO - Total P&L: Rs-829.50
+2025-04-20 20:51:01,419 - main.py - [Line: 44] - INFO - DAY 17/18: Processing 27042022
+2025-04-20 20:51:01,419 - main.py - [Line: 45] - INFO - ==============================
+2025-04-20 20:51:01,420 - strategy.py - [Line: 21] - INFO - Executing simple SELL CALL PUT strategy
+2025-04-20 20:51:01,420 - strategy.py - [Line: 28] - INFO - Date: 27042022
+2025-04-20 20:51:01,442 - strategy.py - [Line: 64] - INFO - ATM Strike determined: 36100 (Future LTP: 36137.65)
+2025-04-20 20:51:01,442 - strategy.py - [Line: 65] - INFO - Selected Option Type: CE
+2025-04-20 20:51:01,447 - strategy.py - [Line: 116] - INFO - --------------------------------------------------
+2025-04-20 20:51:01,447 - strategy.py - [Line: 117] - INFO - TRADE LOG
+2025-04-20 20:51:01,447 - strategy.py - [Line: 118] - INFO - Strike Price      : 36100 CE
+2025-04-20 20:51:01,447 - strategy.py - [Line: 119] - INFO - Entry Time        : 9:25
+2025-04-20 20:51:01,447 - strategy.py - [Line: 120] - INFO - Entry Price       : Rs269.00
+2025-04-20 20:51:01,447 - strategy.py - [Line: 121] - INFO - Exit Time         : 15:15
+2025-04-20 20:51:01,447 - strategy.py - [Line: 122] - INFO - Exit Price        : Rs190.05
+2025-04-20 20:51:01,447 - strategy.py - [Line: 123] - INFO - P&L per Qty       : Rs78.95
+2025-04-20 20:51:01,447 - strategy.py - [Line: 124] - INFO - Lot Size          : 30
+2025-04-20 20:51:01,447 - strategy.py - [Line: 125] - INFO - Total P&L (1 lot) : Rs2368.50
+2025-04-20 20:51:01,447 - strategy.py - [Line: 126] - INFO - --------------------------------------------------
+2025-04-20 20:51:01,447 - main.py - [Line: 84] - INFO - 
+Daily Summary:
+2025-04-20 20:51:01,447 - main.py - [Line: 85] - INFO - Trades Executed: 1
+2025-04-20 20:51:01,447 - main.py - [Line: 86] - INFO - Total P&L: Rs2368.50
+2025-04-20 20:51:01,447 - main.py - [Line: 44] - INFO - DAY 18/18: Processing 28042022
+2025-04-20 20:51:01,447 - main.py - [Line: 45] - INFO - ==============================
+2025-04-20 20:51:01,448 - strategy.py - [Line: 21] - INFO - Executing simple SELL CALL PUT strategy
+2025-04-20 20:51:01,448 - strategy.py - [Line: 28] - INFO - Date: 28042022
+2025-04-20 20:51:01,452 - strategy.py - [Line: 64] - INFO - ATM Strike determined: 36000 (Future LTP: 36036.00)
+2025-04-20 20:51:01,452 - strategy.py - [Line: 65] - INFO - Selected Option Type: CE
+2025-04-20 20:51:01,457 - strategy.py - [Line: 116] - INFO - --------------------------------------------------
+2025-04-20 20:51:01,457 - strategy.py - [Line: 117] - INFO - TRADE LOG
+2025-04-20 20:51:01,457 - strategy.py - [Line: 118] - INFO - Strike Price      : 36000 CE
+2025-04-20 20:51:01,457 - strategy.py - [Line: 119] - INFO - Entry Time        : 9:25
+2025-04-20 20:51:01,457 - strategy.py - [Line: 120] - INFO - Entry Price       : Rs161.80
+2025-04-20 20:51:01,457 - strategy.py - [Line: 121] - INFO - Exit Time         : 15:15
+2025-04-20 20:51:01,457 - strategy.py - [Line: 122] - INFO - Exit Price        : Rs359.60
+2025-04-20 20:51:01,457 - strategy.py - [Line: 123] - INFO - P&L per Qty       : Rs-197.80
+2025-04-20 20:51:01,457 - strategy.py - [Line: 124] - INFO - Lot Size          : 30
+2025-04-20 20:51:01,457 - strategy.py - [Line: 125] - INFO - Total P&L (1 lot) : Rs-5934.00
+2025-04-20 20:51:01,457 - strategy.py - [Line: 126] - INFO - --------------------------------------------------
+2025-04-20 20:51:01,457 - main.py - [Line: 84] - INFO - 
+Daily Summary:
+2025-04-20 20:51:01,457 - main.py - [Line: 85] - INFO - Trades Executed: 1
+2025-04-20 20:51:01,457 - main.py - [Line: 86] - INFO - Total P&L: Rs-5934.00
+2025-04-20 20:51:01,467 - main.py - [Line: 102] - INFO - 
+STRATEGY EXECUTION COMPLETED
+2025-04-20 20:51:01,468 - main.py - [Line: 103] - INFO - ==============================
+2025-04-20 20:51:01,468 - main.py - [Line: 104] - INFO - Final Metrics:
+2025-04-20 20:51:01,468 - main.py - [Line: 105] - INFO - Average Return: Rs1697.75
+2025-04-20 20:51:01,468 - main.py - [Line: 106] - INFO - Total Win Days: 13
+2025-04-20 20:51:01,468 - main.py - [Line: 107] - INFO - Total Loss Days: 5
+2025-04-20 20:51:01,468 - main.py - [Line: 108] - INFO - Win Rate: 72.22%
+2025-04-20 20:51:01,468 - main.py - [Line: 109] - INFO - Profit Factor: 2.52
+2025-04-20 20:51:01,468 - main.py - [Line: 110] - INFO - Sharpe Ratio: 0.38
+2025-04-20 20:51:01,468 - main.py - [Line: 111] - INFO - Max Drawdown: Rs13359.00
+2025-04-20 20:51:01,468 - main.py - [Line: 112] - INFO - Most Profitable Day: 01042022 (Rs9559.50)
+2025-04-20 20:51:01,468 - main.py - [Line: 113] - INFO - Most Loss-Making Day: 13042022 (Rs-7045.50)
+2025-04-20 20:51:01,468 - main.py - [Line: 114] - INFO - Max Consecutive Wins: 6
+2025-04-20 20:51:01,468 - main.py - [Line: 115] - INFO - Max Consecutive Losses: 2
+2025-04-20 20:51:01,469 - main.py - [Line: 116] - INFO - Cumulative P&L: Rs30559.50
+2025-04-20 20:51:01,469 - main.py - [Line: 117] - INFO - Daily Volatility: Rs4505.49
+2025-04-20 20:51:01,469 - main.py - [Line: 118] - INFO - Average Trade P&L: Rs1697.75
