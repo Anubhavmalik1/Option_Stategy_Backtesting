@@ -1,5 +1,3 @@
-Here is a detailed write-up of your **Bank Nifty Option Selling Strategy** with accompanying log insights, suitable for documentation on GitHub:
-
 ---
 
 ## 🧠 Strategy: Bank Nifty Option Selling Based on Early Trend
@@ -91,7 +89,7 @@ To capture early directional moves in Bank Nifty using a simple price action-bas
 
 ---
 
-### 🗂 File Structure Suggestion:
+### 🗂 File Structure:
 
 ```
 banknifty-options-strategy/
@@ -103,7 +101,5 @@ banknifty-options-strategy/
 ├── main.py
 ├── strategy.py
 ├── config.py
-├── README.md   <-- This write-up goes here
-```
-
-Would you like a clean version of this in `README.md` markdown format for direct GitHub use?
+├── README.md   
+```    
