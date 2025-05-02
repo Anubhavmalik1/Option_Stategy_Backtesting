@@ -92,7 +92,7 @@ To capture early directional moves in Bank Nifty using a simple price action-bas
 ### 🗂 File Structure:
 
 ```
-banknifty-options-strategy/
+Option_Stategy_Backtesting/
 │
 ├── logs/
 │   └── ST_Option_Selling_20_50_20042025.log
