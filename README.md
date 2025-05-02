@@ -1,7 +1,7 @@
 ---
 
 ## 🧠 Strategy: Bank Nifty Option Selling Based on Early Trend
-#### Strategy is backtested with April 2022 TickData
+#### This Strategy is backtested with April 2022 TickData
 ### 🎯 Objective:
 
 To capture early directional moves in Bank Nifty using a simple price action-based rule and generate intraday profits by selling ATM (At-The-Money) options.
